@@ -15,6 +15,10 @@ This role was developed using Ansible 2.4.0.0. Backwards compatibility is not gu
 
 Use `ansible-galaxy install nginxinc.nginx` to install the role on your system.
 
+Additional documentation:
+
+- [MySQL ユーザー向け PostgreSQL CLI チートシート](docs/postgresql-cli-cheatsheet-ja.md)
+
 It supports all platforms supported by [NGINX Open Source](https://nginx.org/en/linux_packages.html#mainline) and [NGINX Plus](https://www.nginx.com/products/technical-specs/):
 
 **NGINX Open Source**
